@@ -25,43 +25,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 📌 Featured Projects
 
-### 📊 Data Analysis Project
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Transformation
-- Insights for decision-making  
-🔗 Link: [project-link]
-
----
-
-### ⚙️ Data Engineering Pipeline
-- ETL pipeline with Python
-- Data ingestion + transformation
-- Storage in SQL/NoSQL  
-🔗 Link: [project-link]
-
----
-
-### 📈 Dashboard Project
-- BI dashboard with KPIs
-- Business insights visualization  
-🔗 Link: [project-link]
+### 📊 ETL Project
+- Data Cleaning & Transformation 
+🔗 Link: [https://github.com/marcelofiquene/titanic-etl-pipeline]
 
 ---
 
 ## 🤝 Connect with me
 
-- 💼 LinkedIn: [your-linkedin]
-- 📧 Email: [your-email]
+- 💼 LinkedIn: [https://www.linkedin.com/in/marcelo-fiquene]
+- 📧 Email: [marcelofiquene@hotmail.com]
 
 ---
 
