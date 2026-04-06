@@ -1,16 +1,19 @@
-## Hi there 👋
+Bem vindo, Meu nome é Marcelo Fiquene
 
-<!--
-**marcelofiquene/marcelofiquene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Voce pode me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin Badge Gmail Badge
+
+
+ 
+🔧 Technologies & Tools
+Stacks	Description
+Highlighter	HTLM, Markdown	HTML, Markdown
+Styles		Css, Sass, Tailwindcss, StyledComponents
+languages		JavaScript, TypeScript, Python
+Frameworks/Libraries		React, Redux, nodeJs, Express, Flask, Django
+SQL/NOSQL		Postgres, MongoDb, Sqlite
+Tools		Docker, Git, Github, Insomnia
+Deploy	  	Heroku, Railway, Vercel
+Mockups		Figma
