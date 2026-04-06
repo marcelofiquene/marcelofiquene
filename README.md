@@ -1,19 +1,37 @@
-Bem vindo, Meu nome é Marcelo Fiquene
+## 🚀 Tech Stack
 
+### 💻 Linguagens
+- TypeScript
+- Python
 
-Voce pode me encontrar:
+---
 
-Linkedin Badge Gmail Badge
+### 📚 Frameworks / Libraries
+- React
+- Redux
+- Node.js
+- Express
+- Flask
+- Django
 
+---
 
- 
-🔧 Technologies & Tools
-Stacks	Description
-Highlighter	HTLM, Markdown	HTML, Markdown
-Styles		Css, Sass, Tailwindcss, StyledComponents
-languages		JavaScript, TypeScript, Python
-Frameworks/Libraries		React, Redux, nodeJs, Express, Flask, Django
-SQL/NOSQL		Postgres, MongoDb, Sqlite
-Tools		Docker, Git, Github, Insomnia
-Deploy	  	Heroku, Railway, Vercel
-Mockups		Figma
+### 🗄️ SQL / NoSQL
+- PostgreSQL
+- MongoDB
+- SQLite
+
+---
+
+### 🧰 Tools
+- Docker
+- Git
+- GitHub
+- Insomnia
+
+---
+
+### 🚀 Deploy
+- Heroku
+- Render
+- Vercel
