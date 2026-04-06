@@ -39,6 +39,3 @@
 - 📧 Email: [marcelofiquene@hotmail.com]
 
 ---
-
-## ⚡ Fun Fact
-I like to think of data as a **strategic asset**, not just numbers.
