@@ -27,9 +27,14 @@
 
 ## 📌 Featured Projects
 
-### 📊 ETL Project
-- Data Cleaning & Transformation 
-🔗 Link: [https://github.com/marcelofiquene/titanic-etl-pipeline]
+### 📊 Customer Success
+🔗 Link: [https://github.com/marcelofiquene/customer_segmentation_analysis]
+
+### 📊 Customer Churn Analysis
+🔗 Link: [https://github.com/marcelofiquene/customer_churn_records_analysis]
+
+### 📊 iFood Data Analysis
+🔗 Link: [https://github.com/marcelofiquene/ifood_data_analysis]
 ---
 ## 🐍 Python Fundamentals
 - A roadmap containing all my Python learning projects
