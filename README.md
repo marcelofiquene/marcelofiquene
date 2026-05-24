@@ -35,6 +35,7 @@
 
 ### 📊 iFood Data Analysis
 🔗 Link: [https://github.com/marcelofiquene/ifood_data_analysis]
+
 ---
 ## 🐍 Python Fundamentals
 - A roadmap containing all my Python learning projects
