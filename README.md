@@ -31,7 +31,7 @@
 - Data Cleaning & Transformation 
 🔗 Link: [https://github.com/marcelofiquene/titanic-etl-pipeline]
 ---
-## 📊 Python Fundamentals
+## 🐍 Python Fundamentals
 - A roadmap containing all my Python learning projects
 🔗 Link: [https://github.com/marcelofiquene/python-fundamentals]
 ---
