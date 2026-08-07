@@ -27,24 +27,20 @@
 
 ## 📌 Featured Projects
 
-### 📊 Customer Success
-🔗 Link: [https://github.com/marcelofiquene/customer_segmentation_analysis]
+### [📊 Customer Success](https://github.com/marcelofiquene/customer_segmentation_analysis)
 
-### 📊 Customer Churn Analysis
-🔗 Link: [https://github.com/marcelofiquene/customer_churn_records_analysis]
+### [📊 Customer Churn Analysis](https://github.com/marcelofiquene/customer_churn_records_analysis)
 
-### 📊 iFood Data Analysis
-🔗 Link: [https://github.com/marcelofiquene/ifood_data_analysis]
+### [📊 iFood Data Analysis](https://github.com/marcelofiquene/ifood_data_analysis)
 
 ---
-## 🐍 Python Fundamentals
+## [🐍 Python Fundamentals](https://github.com/marcelofiquene/python-fundamentals)
 - A roadmap containing all my Python learning projects
-🔗 Link: [https://github.com/marcelofiquene/python-fundamentals]
 ---
 
 ## 🤝 Connect with me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/marcelo-fiquene]
-- 📧 Email: [marcelofiquene@hotmail.com]
+- 💼 LinkedIn: [Marcelo Fiquene](https://www.linkedin.com/in/marcelo-fiquene)
+- 📧 Email: marcelofiquene@hotmail.com
 
 ---
