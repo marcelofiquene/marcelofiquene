@@ -48,4 +48,4 @@ Repositório centralizado contendo meu plano de desenvolvimento contínuo em Pyt
 ## Contato
 
 - **LinkedIn:** [Marcelo Fiquene](https://www.linkedin.com/in/marcelo-fiquene)
-- **E-mail:** marcelofiquene@hotmail.com
+- **E-mail:** marcelofiquene.matching714@passinbox.com
