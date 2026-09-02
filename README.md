@@ -29,6 +29,9 @@
 | [Sucesso do Cliente (Customer Success)](https://github.com/marcelofiquene/customer_segmentation_analysis) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Análise e segmentação de clientes para identificação de padrões de comportamento e otimização de retenção. |
 | [Análise de Cancelamentos (Churn)](https://github.com/marcelofiquene/customer_churn_records_analysis) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) | Estudo exploratório de dados para identificar os principais fatores de cancelamento de clientes. |
 | [Análise de Dados iFood](https://github.com/marcelofiquene/ifood_data_analysis) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | Análise de campanhas e entregas para extração de insights de negócios e suporte à tomada de decisão. |
+| [Análise de Segmentação de Clientes - Health Insurance](https://github.com/marcelofiquene/health_insurance_data_analysis) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | Análise de dados com foco em segmentação de clientes de plano de saúde com o objetivo de otimizar a precificação de prêmios com base no perfil de risco de cada segmento |
+
+
 
 ## Fundamentos em Python
 
